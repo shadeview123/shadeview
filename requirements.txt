@@ -1,4 +1,5 @@
 Flask
+gunicorn
 fpdf
 opencv-python
 scikit-learn
