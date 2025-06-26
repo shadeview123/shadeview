@@ -6,4 +6,4 @@ scikit-learn
 joblib
 pandas
 colormath
-numpy
+numpy==1.19.5
