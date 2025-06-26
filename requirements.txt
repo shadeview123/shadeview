@@ -1,0 +1,8 @@
+Flask
+fpdf
+opencv-python
+scikit-learn
+joblib
+pandas
+colormath
+numpy
